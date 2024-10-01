@@ -11,31 +11,45 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, TU Berlin, 2026 (expected)
-* B.S. in Computer Science, TU Berlin, 2023
+* M.Sc. in Computer Science, TU Berlin, 2026 (expected)
+* B.Sc. in Computer Science, TU Berlin, 2023
+  - Thesis: [Vision-based Pose Estimation of a non-cooperative tumbling Object using Machine Learning](/files/Abschlussarbeit_366289.pdf)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2019: IT Office assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Knowledge
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming Languages**: Python, SQL; C, Java (basic knowledge)
+- **Development Tools**: Visual Studio Code, Jupyter Notebooks
+- **Version Control**: Git
+- **Machine Learning/Data Science**:
+  - YOLOv8 model training
+  - RNN, CNN, U-Net and FFNN architectures
+  - NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+  - **Model Evaluation**: Cross-validation, hyperparameter tuning, confusion matrix, AUC curve
+  - **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, (Stochastic) Gradient Descent
+  - **Unsupervised Learning**: K-Means Clustering, PCA
+  - **Deep Learning Frameworks**: PyTorch
+  - **Natural Language Processing (NLP)**: Tokenization, Lemmatization, Stemming, Word Embeddings (Word2Vec, GloVe), BERT Transformer Model
+  - **Data Cleaning**: Handling missing data, outlier detection, feature scaling, feature engineering
+- **Cloud and DevOps Tools**: 
+  - **Cloud Platforms**: AWS (S3, EC2), Google Cloud, Azure
+  - **Containerization and Orchestration**: Docker, Kubernetes
+  - **CI/CD Pipelines**: Jenkins, GitLab CI
+- **Model Deployment**:
+  - **Frameworks**: Flask, FastAPI
+  - **Cloud Deployment**: AWS SageMaker, Google Cloud AI, Azure Machine Learning
+- **Databases**: PostgreSQL
+
+Languages
+======
+* Russian (native)
+* German (fluent)
+* English (fluent)
+
+Other
+======
+* Class B driving license
