@@ -13,7 +13,7 @@ Education
 ======
 * M.Sc. in Computer Science, TU Berlin, 2026 (expected)
 * B.Sc. in Computer Science, TU Berlin, 2023
-  - Thesis: [Vision-based Pose Estimation of a non-cooperative tumbling Object using Machine Learning](/files/Abschlussarbeit_366289.pdf)
+  - Thesis: [Vision-based Pose Estimation of a non-cooperative tumbling Object using Machine Learning](/files/b_thesis.pdf)
 
 
 Work experience
