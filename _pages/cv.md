@@ -41,7 +41,7 @@ Knowledge
   - **CI/CD Pipelines**: Jenkins, GitLab CI
 - **Model Deployment**:
   - **Frameworks**: Flask, FastAPI
-  - **Cloud Deployment**: AWS SageMaker, Google Cloud AI, Azure Machine Learning
+  <!-- **Cloud Deployment**: AWS SageMaker, Google Cloud AI, Azure Machine Learning -->
 - **Databases**: PostgreSQL
 
 Languages
