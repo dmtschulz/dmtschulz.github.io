@@ -10,8 +10,8 @@ This solution was submitted as part of the **Kaggle Titanic Competition**, where
 
 **Key Highlights:**
 - **Model Used**: Random Forest Classifier
-- **Accuracy**: 78.6%
-- **Technologies**: Python, Pandas, Scikit-learn, Jupyter Notebook
+- **Score**: 0.78468
+- **Tools**: Python, Pandas, Scikit-learn, Jupyter Notebook
 
 You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/titanic-survival-prediction-score-0-78468) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions).
 
