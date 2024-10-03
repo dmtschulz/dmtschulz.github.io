@@ -1,5 +1,5 @@
 ---
-title: "Titanic Kaggle Competition Solution"
+title: "Kaggle Competition Solution: Titanic"
 excerpt: "Machine learning model for predicting survival on the Titanic.<br/><img src='/images/titanic.png'>"
 collection: portfolio
 ---
