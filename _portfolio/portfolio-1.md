@@ -1,6 +1,6 @@
 ---
 title: "Courses I have finished on DataCamp.com"
-excerpt: "14 data analytics with python courses. They cover important aspects of machine learning and data science.<br/><img src='/images/csm_ida_motiv_732fc23a7f.webp'>"
+excerpt: "14 data analytics with python courses. They cover important aspects of machine learning and data science.<br/><img src='/images/uni/csm_ida_motiv_732fc23a7f.webp'>"
 collection: portfolio
 ---
 
