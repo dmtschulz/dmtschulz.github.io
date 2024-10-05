@@ -16,4 +16,4 @@ This solution was submitted as part of the **Binary Classification of Insurance 
 
 You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/ps4e7-insurancecrossselling-score-0-89208) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions).
 
-![Titanic Solution](/images/kaggle.png)
+![Insurance Solution](/images/kaggle/kaggle.png)

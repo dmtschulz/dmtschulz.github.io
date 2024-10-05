@@ -15,4 +15,4 @@ This solution was submitted as part of the **Kaggle Titanic Competition**, where
 
 You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/titanic-survival-prediction-score-0-78468) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions).
 
-![Titanic Solution](/images/titanic.png)
+![Titanic Solution](/images/kaggle/titanic.png)
