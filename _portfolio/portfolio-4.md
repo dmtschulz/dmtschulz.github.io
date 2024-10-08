@@ -1,5 +1,5 @@
 ---
-title: " Kaggle Competition Solution: Binary Prediction of Poisonous Mushrooms"
+title: "Kaggle Competition Solution: Binary Prediction of Poisonous Mushrooms"
 excerpt: "The goal of this competition is to predict whether a mushroom is edible or poisonous based on its physical characteristics.<br/><img src='/images/kaggle/mushrooms.png'>"
 collection: portfolio
 ---

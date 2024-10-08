@@ -1,5 +1,5 @@
 ---
-title: " Kaggle Competition Solution: Binary Classification of Insurance Cross Selling"
+title: "Kaggle Competition Solution: Binary Classification of Insurance Cross Selling"
 excerpt: "Machine learning model for predicting which customers respond positively to an automobile insurance offer.<br/><img src='/images/kaggle/kaggle.png'>"
 collection: portfolio
 ---
