@@ -15,5 +15,3 @@ This project explores how regularization techniques like early stopping and drop
 - **Tools**: PyTorch, Torchvision, Matplotlib, Jupyter Notebook
 
 Check out the [GitHub repository](https://github.com/dmtschulz/fashion-mnist-regularization/).
-
-![Picture](/images/uni/fashion_reg.jpg)
