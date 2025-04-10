@@ -1,7 +1,7 @@
 ---
-title: "NLP - Text classification and Translation"
-excerpt: "<b>1st Project</b>: Oppositional Thinking Analysis: Classifying Critical vs. Conspiratorial Narratives about Covid-19 <br/> <br/>
- <b>2nd Project</b>: Machine Translation Model: English to German and Vice Versa <br/><img src='/images/uni/nlp-1.png'>"
+title: "NLP - Text Сlassification and Translation"
+excerpt: "<b>Classification</b>: Oppositional Thinking Analysis: Classifying Critical vs. Conspiratorial Narratives about Covid-19 <br/> <br/>
+ <b>Machine Translation Model</b>: English to German and Vice Versa <br/><img src='/images/uni/nlp-1.png'>"
 collection: portfolio
 ---
 
@@ -14,8 +14,8 @@ This project focuses on oppositional thinking analysis through text classificati
 - **Models / Neural Network Architecture Constructed**: Naïve Bayes, Feedforward Neural Network
 - **Tools**: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
 
-Classification Project: [Report](https://github.com/dmtschulz/nlp-text-classification-covid/blob/main/report/oppositional_thinking_analysis.pdf) \
-Classification Project: [Github link with code](https://github.com/dmtschulz/nlp-text-classification-covid)
+Covid Text Classification Project: [Report](https://github.com/dmtschulz/nlp-text-classification-covid/blob/main/report/oppositional_thinking_analysis.pdf) \
+Covid Classification Project: [Github link with code](https://github.com/dmtschulz/nlp-text-classification-covid)
 
 <u>Description of Eng-Ger Translation Project</u>:<br/>
 This project involves developing a machine translation model to automatically translate text between English and German and Vice Versa. The project leverages deep neural networks, which have greatly improved translation performance and accuracy in recent years.
