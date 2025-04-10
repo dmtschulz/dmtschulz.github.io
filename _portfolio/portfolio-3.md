@@ -14,6 +14,6 @@ This solution was submitted as part of the **Binary Classification of Insurance 
 - **Place**: 439/2234
 - **Tools**: Python, Pandas, Scikit-learn, Jupyter Notebook
 
-You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/ps4e7-insurancecrossselling-score-0-89208) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions).
+You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/ps4e7-insurancecrossselling-score-0-89208) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions/tree/main/insurance_cross_selling).
 
 ![Insurance Solution](/images/kaggle/kaggle.png)

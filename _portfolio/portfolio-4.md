@@ -13,6 +13,6 @@ This solution was submitted as part of the **Binary Prediction of Poisonous Mush
 - **Score**: 0.97775
 - **Tools**: Python, Pandas, Scikit-learn, Jupyter Notebook
 
-You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/ps4e8-poisonousmushrooms-score-0-97775) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions).
+You can view the notebook [here on Kaggle](https://www.kaggle.com/code/dimitrijschulz/ps4e8-poisonousmushrooms-score-0-97775) or check out the [GitHub repository](https://github.com/dmtschulz/kaggle-playground-solutions/tree/main/poisonous_mushrooms).
 
 ![Mushrooms Solution](/images/kaggle/mushrooms.png)
