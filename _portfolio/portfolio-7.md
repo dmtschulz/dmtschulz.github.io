@@ -1,6 +1,6 @@
 ---
 title: "FashionMNIST Regularization"
-excerpt: "Exploring regularization techniques on a neural network with a tiny dataset. <br/><img src='/images/uni/fashion_reg.jpg' width=450>"
+excerpt: "Exploring regularization techniques on a neural network with a tiny dataset. <br/><img src='https://raw.githubusercontent.com/dmtschulz/fashion-mnist-regularization/refs/heads/main/plots/early_stopping_loss.png'>"
 collection: portfolio
 ---
 
@@ -15,3 +15,6 @@ This project explores how regularization techniques like early stopping and drop
 - **Tools**: PyTorch, Torchvision, Matplotlib, Jupyter Notebook
 
 Check out the [GitHub repository](https://github.com/dmtschulz/fashion-mnist-regularization/).
+
+Early Stopping Plot:
+![Early Stopping Plot](https://raw.githubusercontent.com/dmtschulz/fashion-mnist-regularization/refs/heads/main/plots/early_stopping_loss.png)
