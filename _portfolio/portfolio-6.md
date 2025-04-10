@@ -20,7 +20,7 @@ collection: portfolio
 - **Data Augmentation:**  
   Various data augmentation techniques, such as rotations, reflections, noise modulation, zoom, mixup, and shearing, were applied to enhance model quality. These augmentations were introduced into the data preparation pipeline, with experiments conducted to evaluate their effect on the train and validation sets. A final comparison was made between models with and without augmentation on the test data.
 
-[Report](https://github.com/dmtschulz/SoSe24_AMLS/blob/main/report.pdf) \
-[Github link with code](https://github.com/dmtschulz/SoSe24_AMLS)
+[Report](https://github.com/dmtschulz/satellite-image-segmentation/blob/main/report.pdf) \
+[Github link with code](https://github.com/dmtschulz/satellite-image-segmentation)
 
 ![Example Classification Result](/images/uni/berlin_building_detection_result.png)
