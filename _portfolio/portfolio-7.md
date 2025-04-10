@@ -1,6 +1,6 @@
 ---
 title: "FashionMNIST Regularization"
-excerpt: "Exploring regularization techniques on a neural network with a tiny dataset. <br/><img src='/images/uni/fashion_reg.jpg'>"
+excerpt: "Exploring regularization techniques on a neural network with a tiny dataset. <br/><img src='/images/uni/fashion_reg.jpg' width=450>"
 collection: portfolio
 ---
 
