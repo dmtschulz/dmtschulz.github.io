@@ -14,8 +14,8 @@ This project focuses on oppositional thinking analysis through text classificati
 - **Models / Neural Network Architecture Constructed**: Naïve Bayes, Feedforward Neural Network
 - **Tools**: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
 
-Project 1: [Report](https://github.com/dmtschulz/SoSe24_NLP_Project1/blob/main/report/oppositional_thinking_analysis.pdf) \
-Project 1: [Github link with code](https://github.com/dmtschulz/SoSe24_NLP_Project1)
+Project 1: [Report](https://github.com/dmtschulz/nlp-text-classification-covid/blob/main/report/oppositional_thinking_analysis.pdf) \
+Project 1: [Github link with code](https://github.com/dmtschulz/nlp-text-classification-covid)
 
 <u>Description of 2nd Project</u>:<br/>
 This project involves developing a machine translation model to automatically translate text between English and German and Vice Versa. The project leverages deep neural networks, which have greatly improved translation performance and accuracy in recent years.
@@ -24,8 +24,8 @@ This project involves developing a machine translation model to automatically tr
 - **Models / Neural Network Architecture**: RNN based sequence to sequence models (encoder-decoder), Attention Mechanism, GloVe, Word2Vec
 - **Tools**: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
 
-Project 2: [Report](https://github.com/dmtschulz/SoSe24_NLP_Project2/blob/main/report/en_de_machine_translation.pdf) \
-Project 2: [Github link with code](https://github.com/dmtschulz/SoSe24_NLP_Project2)
+Project 2: [Report](https://github.com/dmtschulz/nlp-eng-ger-translation/blob/main/report/en_de_machine_translation.pdf) \
+Project 2: [Github link with code](https://github.com/dmtschulz/nlp-eng-ger-translation)
 
 <i>Note</i>: No performance scores are provided as the objective was to construct the models. Achieving higher accuracy would require additional computational resources.
 
