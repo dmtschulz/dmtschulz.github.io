@@ -1,10 +1,10 @@
 ---
 title: "Ensemble Learning from Scratch"
-excerpt: "Manual implementation of decision trees, random forests, and boosting. <br/><img src='https://github.com/dmtschulz/grow-your-own-forest/main/plots/random_forest_boundary.png' width='250'>"
+excerpt: "Manual implementation of decision trees, random forests, and boosting. <br/><img src='https://raw.githubusercontent.com/dmtschulz/grow-your-own-forest/main/plots/random_forest_boundary.png' width='250'>"
 collection: portfolio
 ---
 
-### Ensemble Learning from Scratch (TU Berlin ML Course)
+### Ensemble Learning
 
 This project demonstrates hand-built implementations of common ensemble methods in machine learning:
 
