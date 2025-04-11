@@ -21,7 +21,7 @@ We train the model solely on one class (zeros) and detect anomalies based on rec
 
 **Tools**: PyTorch, Torchvision, Matplotlib, Scikit-learn
 
-Check out the [GitHub repository](https://github.com/dmtschulz/mnist-autoencoder-anomaly).
+Check out the [GitHub repository](https://github.com/dmtschulz/autoencoder-mnist-anomaly).
 
 Anomaly detection heatmap (darker = less expected):
 ![Anomaly Heatmap](https://raw.githubusercontent.com/dmtschulz/autoencoder-mnist-anomaly/refs/heads/main/plots/anomaly_heatmaps.png)
