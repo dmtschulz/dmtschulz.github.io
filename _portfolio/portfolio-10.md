@@ -1,6 +1,6 @@
 ---
 title: "Ensemble Learning from Scratch"
-excerpt: "Manual implementation of decision trees, random forests, and boosting. <br/><img src='https://raw.githubusercontent.com/dmtschulz/grow-your-own-forest/main/plots/random_forest_boundary.png' width='250'>"
+excerpt: "Manual implementation of decision trees, random forests, and boosting. <br/><img src='https://raw.githubusercontent.com/dmtschulz/grow-your-own-forest/main/plots/random_forest_boundary.png' width='350'>"
 collection: portfolio
 ---
 

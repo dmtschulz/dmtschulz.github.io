@@ -1,6 +1,6 @@
 ---
 title: "CNN - Sentinel Building Segmentation"
-excerpt: "This project involved developing a machine learning pipeline to classify building locations in cities using satellite images. The model was trained to identify whether pixels in satellite images from the Sentinel 2 satellite contain buildings. The project included solutions for multiple sub-tasks and a final report detailing the results. Open-source ML libraries were used, and accuracy was tested on specific geographic coordinates. <br/><img src='/images/uni/berlin_building_detection.png'>"
+excerpt: "This project involved developing a machine learning pipeline to classify building locations in cities using satellite images. The model was trained to identify whether pixels in satellite images from the Sentinel 2 satellite contain buildings. The project included solutions for multiple sub-tasks and a final report detailing the results. Open-source ML libraries were used, and accuracy was tested on specific geographic coordinates. <br/><img src='/images/uni/berlin_building_detection_result.png'>"
 collection: portfolio
 ---
 
