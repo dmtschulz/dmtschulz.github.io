@@ -79,6 +79,15 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+      {% if author.huggingface %}
+        <li>
+          <a href="https://huggingface.co/{{ author.huggingface }}">
+            <img src="{{ '/assets/img/huggingface.svg' | relative_url }}" alt="Hugging Face" style="height: 1em; width: auto; vertical-align: text-bottom; margin-right: 0.3em;">
+            Hugging Face
+          </a>
+        </li>
+      {% endif %}
+
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
