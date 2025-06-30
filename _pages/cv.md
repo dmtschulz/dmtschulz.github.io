@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* From 11.2024: Python developer at BAM
 * Summer 2019: IT Office assistant
 
 Knowledge
@@ -35,14 +36,17 @@ Knowledge
   - **Deep Learning Frameworks**: PyTorch
   - **Natural Language Processing (NLP)**: Tokenization, Lemmatization, Stemming, Word Embeddings (Word2Vec, GloVe), BERT Transformer Model
   - **Data Cleaning**: Handling missing data, outlier detection, feature scaling, feature engineering
+  
+<!--
 - **Cloud and DevOps Tools**: 
   - **Cloud Platforms**: AWS (S3, EC2), Google Cloud, Azure
   - **Containerization and Orchestration**: Docker, Kubernetes
   - **CI/CD Pipelines**: Jenkins, GitLab CI
 - **Model Deployment**:
   - **Frameworks**: Flask, FastAPI
-  <!-- **Cloud Deployment**: AWS SageMaker, Google Cloud AI, Azure Machine Learning -->
+   **Cloud Deployment**: AWS SageMaker, Google Cloud AI, Azure Machine Learning
 - **Databases**: PostgreSQL
+-->
 
 Languages
 ======
