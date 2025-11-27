@@ -7,8 +7,7 @@ tags:
   - machine-learning
   - model-evaluation
 ---
-
-Bias vs. Variance Explained
+![Bias vs Variance](/images/blog/bias_variance.jpg)
 ======
 
 ![Bias vs Variance](/images/blog/bias_variance.jpg)
