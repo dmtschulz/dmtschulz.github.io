@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* From 11.2024: Python developer at BAM
+* From 11.2024 - 11.2025: Python developer at BAM
 * Summer 2019: IT Office assistant
 
 Knowledge
@@ -30,12 +30,12 @@ Knowledge
   - YOLOv8 model training
   - RNN, CNN, U-Net and FFNN architectures
   - NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-  - **Model Evaluation**: Cross-validation, hyperparameter tuning, confusion matrix, AUC curve
+  - **Model Evaluation**: Cross-validation, hyperparameter tuning, confusion matrix, ROC-AUC curve
   - **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, (Stochastic) Gradient Descent
-  - **Unsupervised Learning**: K-Means Clustering, PCA
+  - **Unsupervised Learning**: K-Means Clustering, PCA, ICA, CCA
   - **Deep Learning Frameworks**: PyTorch
   - **Natural Language Processing (NLP)**: Tokenization, Lemmatization, Stemming, Word Embeddings (Word2Vec, GloVe), BERT Transformer Model
-  - **Data Cleaning**: Handling missing data, outlier detection, feature scaling, feature engineering
+  - **Data Cleaning**: Missing data handling, outlier detection, feature scaling, feature engineering
   
 <!--
 - **Cloud and DevOps Tools**: 
